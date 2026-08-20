@@ -1,2 +1,3 @@
-idf_component_register(SRCS "src/soldered-esp-idf-component-template.c"
-                    INCLUDE_DIRS "include")
+idf_component_register(SRCS "src/soldered_tmp117.c"
+                    INCLUDE_DIRS "include"
+                    REQUIRES esp_driver_i2c)
