@@ -1,0 +1,3 @@
+dependencies:
+  Soldered-TMP117-ESP-IDF-Component:
+    path: "../../.."
